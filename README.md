@@ -40,3 +40,28 @@ The system architecture is represented using:
 
 ## 📁 Folder Structure
 
+MLH-MortgageLoanHub-System/
+├── MLH.java # Interface file defining system methods
+├── DomainClasses/ # Contains Java or .docx class specifications
+├── Requirements/
+│ ├── UserStories.docx
+│ ├── AcceptanceCriteria.docx
+│ └── UseCaseDiagram.png
+├── README.md
+
+
+---
+
+## 👨‍💻 Authors
+
+- Omar Masoud  
+- Yousef Abbas  
+- Additional team members as per university submission
+
+---
+
+## 📘 License
+
+This project was developed for educational purposes as part of coursework at the University of Hertfordshire. Redistribution may be subject to academic integrity policies.
+
+
